@@ -1,0 +1,2 @@
+# ServerInfo
+UPDATE CLARIFICATION: I made some significant changes to how certain things in the command functions, and added new information to be displayed as well, such as the server "Features". It's more rich on features and has been cleaned up a bit since the last version I posted, so I'm certain you'll want to upgrade.  Description Displays a variety of information about the server.  If something breaks due to changes you made to my code, or if you don't know how to convert it to a different handler, etc., don't expect any support from me.  Dependencies None
